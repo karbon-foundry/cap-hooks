@@ -1,5 +1,5 @@
 {
-  "name": "cap-hooks",
+  "name": "caph",
   "version": "0.0.1",
   "description": "An automated cli package for generating administrative tools and components for React projects, written in React Hooks.",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "@karbon.foundry/smkarber",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
